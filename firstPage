@@ -1,1 +1,2 @@
-hi
+print "Hello There"
+print " I think this is python"
